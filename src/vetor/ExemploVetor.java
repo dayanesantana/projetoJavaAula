@@ -13,6 +13,8 @@ public class ExemploVetor {
 		for (int numero = 0; numero < 5; numero++) {
 			System.out.println((numero + 1) + "º elemento: " + vetorCachorro[numero]);
 		}
+		
+		
 		 
 	      		
 	}
